@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Tool output / results
+results/
+output/
+logs/
+*.log
+*.json
+*.csv
+*.txt
+
+# Virtualenv / env files
+venv/
+.env
+.env.*
+
+# OS/editor files
+.DS_Store
+*.swp
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
